@@ -9,7 +9,7 @@ This project assumes the identity of the the user is defined by using a RFID car
 
   - Arduino Uno (with a cable, duh)
   
-  - MRC522 RFID reader
+  - MFRC522 RFID reader
   
   - RFID tags/ cards
   
@@ -25,7 +25,7 @@ This project assumes the identity of the the user is defined by using a RFID car
   ## Software Required
   
    - [Arduino IDE](https://www.arduino.cc/en/Main/software)
-   - MRC522.h - download this header file from the Arduino IDE
+   - MFRC522.h - download this header file from the Arduino IDE
     
    ## Authors
    
