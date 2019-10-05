@@ -24,7 +24,7 @@ This project assumes the identity of the the user is defined by using a RFID car
     
   ## Software Required
   
-   - Arduino IDE
+   - [Arduino IDE](https://www.arduino.cc/en/Main/software)
    - MRC522.h - download this header file from the Arduino IDE
     
    ## Authors
