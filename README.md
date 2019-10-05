@@ -30,4 +30,4 @@ This project assumes the identity of the the user is defined by using a RFID car
    ## Authors
    
    - Dhruv Agarwal
-   - Vamsi Krishna
+   - Vamsi Krishna (https://github.com/VamsiKrishna1211)
