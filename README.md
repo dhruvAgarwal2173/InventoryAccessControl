@@ -20,15 +20,14 @@ This project assumes the identity of the the user is defined by using a RFID car
   
   ### Optional
     
-    - LCD module
+   - LCD module
     
   ## Software Required
   
-    - Arduino IDE
-    - MRC522.h - download this header file from the Arduino IDE
+   - Arduino IDE
+   - MRC522.h - download this header file from the Arduino IDE
     
    ## Authors
-   This project was made execution ready at our university within 12 hours.
-   Authors of this project are:
-    -Dhruv Agarwal (me)
-    -Vamsi Krishna
+   
+   - Dhruv Agarwal
+   - Vamsi Krishna
